@@ -1,4 +1,4 @@
-public class Main {
+public class MainThreads {
     public static void main(String[] args) {
         Threads t1 = new Threads();
         t1.setName("Thread 1");
