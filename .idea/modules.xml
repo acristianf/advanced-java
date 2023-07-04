@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/modular_programming/ModularProgramming.iml" filepath="$PROJECT_DIR$/modular_programming/ModularProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubstitutionPrinciple/SubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/SubstitutionPrinciple/SubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheCollections/TheCollections.iml" filepath="$PROJECT_DIR$/TheCollections/TheCollections.iml" />
