@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SubstitutionPrinciple/SubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/SubstitutionPrinciple/SubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheCollections/TheCollections.iml" filepath="$PROJECT_DIR$/TheCollections/TheCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/advanced-java.iml" filepath="$PROJECT_DIR$/advanced-java.iml" />
     </modules>
   </component>
